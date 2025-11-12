@@ -44,6 +44,14 @@ export default function Home() {
       href: "/prathamesh",
       color: "from-pink-400 to-blue-400",
       bgColor: "bg-blue-600/10",
+    },
+    {
+      name: "Abhishek",
+      role: "Sweet as GulabJAmun",
+      description: "Jamun, Trauma and Cricket",
+      href: "/abhishek",
+      color: "from-blue-400 to-cyan-400",
+      bgColor: "bg-blue-600/10",
     }
   ]
 
