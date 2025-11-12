@@ -30,13 +30,29 @@ export default function Home() {
       bgColor: "bg-blue-600/10",
     },
     {
-      name: "Gaygan",
-      role: "The Proud",
+      name: "Gagan",
+      role: "The Giant",
       description: "Celebrating love, identity, and the power of pride",
-      href: "/gaygan",
-      color: "from-red-500 via-yellow-500 to-purple-500",
-      bgColor: "bg-rainbow",
+      href: "/gagan",
+      color: "from-cyan-400 to-blue-400",
+      bgColor: "bg-purple-500/10",
     },
+    {
+      name: "Sirdesai",
+      role: "The Short Chaos",
+      description: "Short, Chaotic and Pro Coder",
+      href: "/prathamesh",
+      color: "from-pink-400 to-blue-400",
+      bgColor: "bg-blue-600/10",
+    },
+    {
+      name: "Abhishek",
+      role: "Sweet as GulabJAmun",
+      description: "Jamun, Trauma and Cricket",
+      href: "/abhishek",
+      color: "from-blue-400 to-cyan-400",
+      bgColor: "bg-blue-600/10",
+    }
   ]
 
   return (
